@@ -1,0 +1,13 @@
+{
+  "name": "kermes",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kermes merchant-cluster pilot workspace. Planning-only until MVP implementation is approved.",
+  "type": "module",
+  "scripts": {
+    "status": "echo \"Kermes is planning-only. See apps/kermes/README.md and openspec/changes/define-kermes-merchant-cluster-pilot.\""
+  },
+  "engines": {
+    "node": ">=20.19.4"
+  }
+}
